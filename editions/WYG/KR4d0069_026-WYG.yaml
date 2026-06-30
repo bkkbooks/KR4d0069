@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0069/WYG/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 碑
+  hash: sha256:654eede18fe035388c0895686dad3a5547ab75740b3f34c7f15fb2cbbbcc42ad
+metadata:
+  title: 歐陽文忠公集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 09:14:15.752388'
+  source:
+    repository: kanripo
+    path: KR4d0069/KR4d0069_026.txt
+hash: sha256:f482de29306b5e54da3f3000a8153227c946e3388931addd7b7bbd448867a8ed
