@@ -468,6 +468,7 @@ markers:
   - {type: line-break, offset: 1289, content: '', id: KR4d0069_SBCK_045-4a08}
   - {type: punctuation, offset: 1302, content: (, id: KR4d0069_krp_045-bkkpn1}
   - {type: variant, offset: 1302, length: 4, content: 一作何爲, WYG: 為}
+  - {type: voice, offset: 1302, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 1304, content: /, id: KR4d0069_krp_045-bkkpn2}
   - {type: punctuation, offset: 1305, content: ), id: KR4d0069_krp_045-bkkpn3}
   - {type: substitution, offset: 1305, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -869,6 +870,7 @@ markers:
   - {type: line-break, offset: 2510, content: '', id: KR4d0069_SBCK_045-7a09}
   - {type: punctuation, offset: 2521, content: (, id: KR4d0069_krp_045-bkkpn4}
   - {type: variant, offset: 2521, length: 4, content: 一有於字, WYG: ''}
+  - {type: voice, offset: 2521, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 2523, content: /, id: KR4d0069_krp_045-bkkpn5}
   - {type: punctuation, offset: 2525, content: ), id: KR4d0069_krp_045-bkkpn6}
   - {type: 'kr:newline', offset: 2532, content: '
@@ -952,6 +954,7 @@ markers:
   - {type: line-break, offset: 2752, content: '', id: KR4d0069_SBCK_045-8a01}
   - {type: punctuation, offset: 2757, content: (, id: KR4d0069_krp_045-bkkpn7}
   - {type: variant, offset: 2757, length: 50, content: 一有又冝重爲法以困所謂私牛之客者使不客於民而樂爲官耕凢民之巳有牛者使自耕則牛不足而官市者不多四十四字, WYG: ''}
+  - {type: voice, offset: 2757, length: 50, name: note, id: n3}
   - {type: substitution, offset: 2762, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 2772, content: /, id: KR4d0069_krp_045-bkkpn8}
   - {type: substitution, offset: 2780, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -1183,6 +1186,7 @@ markers:
   - {type: line-break, offset: 3457, content: '', id: KR4d0069_SBCK_045-9b05}
   - {type: punctuation, offset: 3464, content: (, id: KR4d0069_krp_045-bkkpn13}
   - {type: variant, offset: 3464, length: 247, content: 一有又今商賈之難以術制者以其積貨多而不急故也利厚則來利薄則止不可以號令召也故每有司變法下利旣薄小商以無利而不能行則大商方幸小商之不行適得獨賣其貨尚安肯勉趨薄利而來哉故變法而刻利者適足使小商不來而爲大商賈積貨也今必以術制商冝盡括其居積之物官為賣而還之使其貨盡而後變法夫大商以利為生一􅍲不營利則有惶惶之憂彼必不能守積錢而閑居得利雖薄猶將勉而來此變法制商之術也夫欲誘商而通貨莫若與之共利此術之上也欲制商使其不得不從則莫若痛裁之使無積貨此術之下也然此可制茶商耳若鹽者禁益密則冐法愈多而刑繁凡二百三十八字, WYG: ''}
+  - {type: voice, offset: 3464, length: 247, name: note, id: n4}
   - {type: punctuation, offset: 3477, content: /, id: KR4d0069_krp_045-bkkpn14}
   - {type: punctuation, offset: 3490, content: ), id: KR4d0069_krp_045-bkkpn15}
   - {type: 'kr:newline', offset: 3490, content: '
@@ -1319,6 +1323,7 @@ markers:
   - {type: line-break, offset: 3899, content: '', id: KR4d0069_SBCK_045-10b03}
   - {type: variant, offset: 3906, length: 1, content: 足, WYG: 今財用乏矣陛下之心日憂於}
   - {type: punctuation, offset: 3907, content: (, id: KR4d0069_krp_045-bkkpn34}
+  - {type: voice, offset: 3907, length: 5, name: note, id: n5}
   - {type: variant, offset: 3908, length: 1, content: 作, WYG: 日天下之勢嵗危於一嵗此臣所謂用心雖勞不知求致治之要者也近年朝廷開發言路獻計之士不下數千然而事緒轉多枝梧不暇從前所採衆議紛紜至於臨事誰策可用此臣所謂聽言雖多不如力行之果斷者也伏思聖心所甚憂而當今所尚闕者不過曰無兵也無將也無}
   - {type: punctuation, offset: 3910, content: /, id: KR4d0069_krp_045-bkkpn35}
   - {type: variant, offset: 3910, length: 1, content: 足, WYG: ''}
@@ -1327,6 +1332,7 @@ markers:
   - {type: page-break, offset: 3912, content: '', id: KR4d0069_WYG_005-2b, image: WYG1103/WYG1103-0683d.png}
   - {type: page-break, offset: 3912, content: '', id: KR4d0069_WYG_005-3a, image: WYG1103/WYG1103-0684a.png}
   - {type: punctuation, offset: 3914, content: (, id: KR4d0069_krp_045-bkkpn37}
+  - {type: voice, offset: 3914, length: 4, name: note, id: n6}
   - {type: variant, offset: 3915, length: 2, content: 作耕, WYG: 曰不慎號令二曰不明賞罰三曰不責功實此三弊因循}
   - {type: punctuation, offset: 3916, content: /, id: KR4d0069_krp_045-bkkpn38}
   - {type: punctuation, offset: 3918, content: ), id: KR4d0069_krp_045-bkkpn39}
@@ -1341,6 +1347,7 @@ markers:
       ', id: KR4d0069_krp_045-bkkkrnewl212}
   - {type: line-break, offset: 3923, content: '', id: KR4d0069_SBCK_045-10b04}
   - {type: punctuation, offset: 3923, content: (, id: KR4d0069_krp_045-bkkpn40}
+  - {type: voice, offset: 3923, length: 5, name: note, id: n7}
   - {type: variant, offset: 3924, length: 1, content: 作, WYG: 定之命則官吏或相謂曰且未要行}
   - {type: punctuation, offset: 3926, content: /, id: KR4d0069_krp_045-bkkpn41}
   - {type: variant, offset: 3926, length: 2, content: 自爲, WYG: 久必須更改或曰備禮行下略與應破指揮旦夕之間果然又變至於將吏更易道路疲於送迎符牒縱横上下莫能遵守中外臣庶或聞而歎息或聞而竊笑歎息者有憂天下之心竊笑者有輕朝廷之意號令如此欲威天下其可得乎此不慎號令之弊也用人之術不過賞罰然賞及無功則恩不足勸罰失有罪則威無所懼雖有人不可用矣太祖時王全斌破蜀而歸功不細矣犯法一貶十年不問是時方討江南故黜全斌與諸將立法太祖神武英斷所以能平定天下者其賞罰之法皆如此也昨關西用兵四五年矣大將以無功罷者依舊居官軍中見無功者不妨得好官則諸將誰肯立功矣禆將畏懦逗留者皆當斬罪或暫貶而尋遷或}
@@ -1351,4 +1358,4 @@ markers:
 
       ', id: KR4d0069_krp_045-bkkkrnewl213}
   back: []
-hash: sha256:0b9ba665edde576cc95aca8741c324a886e946d725de0ba5afd03346032b95ca
+hash: sha256:f94097e282bd6af0731b283496454efd79ea93b25c6c30b4322b000798926380
